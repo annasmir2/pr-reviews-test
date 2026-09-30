@@ -1,7 +1,7 @@
 export function setupCounter(element) {
-  let counter = 0
+  let counters = 0
   const setCounter = (count) => {
-    counter = count
+    counters = count
     element.innerHTML = `Count is ${counter}`
   }
   element.addEventListener('click', () => setCounter(counter + 1))

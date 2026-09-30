@@ -23,13 +23,13 @@ document.querySelector('#app').innerHTML = `
 <section id="next-steps">
   <div id="docs">
     <svg class="icon" role="presentation" aria-hidden="true"><use href="/icons.svg#documentation-icon"></use></svg>
-    <h2>Annas </h2>
+    <h2>Annas Mirsss </h2>
     <p>Your questions, answered</p>
     <ul>
       <li>
         <a href="https://vite.dev/" target="_blank">
           <img class="logo" src="${viteLogo}" alt="" />
-          Explore Vite
+          Explore Vitesshshshshshsshshshshshshshshshsh
         </a>
       </li>
       <li>
